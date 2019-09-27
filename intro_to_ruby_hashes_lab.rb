@@ -1,20 +1,20 @@
 def new_hash
-  hash = {}
+   {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  woo = {:key => "value",}
+  {:key => "value"}
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-  hash = {:name => "Grace Hopper"}
+  {:name => "Grace Hopper"}
 end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  hash = {:id => 1}
+   {:id => 1}
 end
 
 def my_hash_creator(key, value)
